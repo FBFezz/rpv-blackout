@@ -1,11 +1,12 @@
-resource_manifest_version '05cfa83c-a124-4cfa-a768-c24a5811d8f9'
+fx_version 'bodacious'
+game  'gta5'
 
-server_script {
+server_scripts {
 	'config.lua',
 	'server.lua' 
 }
 
-client_script {
+client_scripts {
 	'config.lua',
 	'client.lua' 
 }
